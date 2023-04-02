@@ -12,7 +12,7 @@ import {
   Keyboard,
 } from "react-native";
 import * as Font from "expo-font";
-import { AppLoading } from "expo";
+import AppLoading from "expo-app-loading";
 import Icon from "react-native-vector-icons/AntDesign";
 
 const initialState = {
